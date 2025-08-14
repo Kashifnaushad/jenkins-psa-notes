@@ -112,7 +112,7 @@ Step-4 : Start Jenkins services using below commands
 sudo systemctl enable jenkins
 sudo systemctl start jenkins
 
-Step-5 : Verify Jenkins setup
+Step-5 :Verify Jenkins setup
 
 sudo systemctl status jenkins
 
